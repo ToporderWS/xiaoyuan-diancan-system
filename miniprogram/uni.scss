@@ -1,0 +1,38 @@
+/**
+ * 设计令牌（校园餐饮风 · 暖红）
+ * 页面样式中一律引用变量，避免散落的硬编码颜色。
+ */
+
+/* 主色 */
+$co-primary: #E53935;
+$co-primary-dark: #C62828;
+$co-primary-light: #FF7043;
+
+/* 渐变 */
+$co-gradient: linear-gradient(135deg, #E53935 0%, #FF7043 100%);
+$co-gradient-soft: linear-gradient(180deg, #FFF0F0 0%, #FFF9F9 100%);
+
+/* 中性色 */
+$co-text: #2B2B2B;
+$co-text-secondary: #6B6B6B;
+$co-text-light: #9E9E9E;
+$co-border: #F0F0F0;
+$co-bg: #FFF5F5;
+$co-white: #FFFFFF;
+
+/* 功能色 */
+$co-success: #43A047;
+$co-warning: #FB8C00;
+$co-danger: #E53935;
+
+/* 圆角与阴影 */
+$co-radius-sm: 12rpx;
+$co-radius: 24rpx;
+$co-radius-lg: 32rpx;
+$co-shadow: 0 6rpx 20rpx rgba(229, 57, 53, 0.06);
+$co-shadow-up: 0 -4rpx 16rpx rgba(0, 0, 0, 0.04);
+
+/* 间距 */
+$co-gap-sm: 12rpx;
+$co-gap: 24rpx;
+$co-gap-lg: 32rpx;

@@ -1,0 +1,22 @@
+{
+  "name": "campus-order-miniprogram",
+  "version": "1.0.0",
+  "private": true,
+  "description": "校园点餐管理系统 · 学生微信小程序（UniApp + Vue3）",
+  "scripts": {
+    "check": "node scripts/check-project.js && node scripts/check-image-url.js",
+    "check:project": "node scripts/check-project.js",
+    "check:image": "node scripts/check-image-url.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [
+    "uni-app",
+    "vue3",
+    "weixin",
+    "miniprogram",
+    "campus-order"
+  ],
+  "license": "UNLICENSED"
+}
